@@ -1,8 +1,6 @@
 UTILITY PRO CHILD THEME
 http://www.carriedils.com/utility-pro/
 
-Stuff I need to add.
-
 REQUIREMENTS
 This theme requires the Genesis Framework 2.0 or greater. The Genesis parent theme needs to be in the wp-content/themes/ directory, but does not need to be activated.
 This theme requires WordPress 4.1 or greater.
